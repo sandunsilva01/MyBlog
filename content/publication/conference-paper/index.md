@@ -1,53 +1,40 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: World wide obesity has doubled since 1980 according to the World Health Organisation [1]. Due to the simultaneous improvement in sensor technology, mHealth interventions relating to physical activity are gaining increasing popularity. However, these mHealth programs provide only limited information regarding overall statistics and visualisation of tracked performance data. Most of these programs consider only cross sectional data in order to group participants depending on engagement levels. However, to provide a truly dynamic personalisd environment what is needed are methods for identifying different engagement trajectories. The Virgin Pulse Global Challenge is a mhealth program which runs with the aim of improving the awareness of employees regarding their physical activity and well-being [3]. In this current study, multichannel engagement trajectories for the main module will be considered. The engagement trajectory for each participant will be comprised of two parallel channels, namely the number of weekly logins and step entries. In the literature there are many ways for clustering multichannel sequences using Hidden Markov Models (HMM). In the current study the authors have used Mixture Hidden Markov Models (MHMM) [2]. This model identifies the most probable cluster for each participant depending on their engagement dynamics. Using random starting values 31 different models are simulated 100 times, varying the number of clusters from two to four, and allowing two to four hidden states for each cluster. As the number of clusters and the number of hidden states for each cluster increases, the Bayesian Information Criterion (BIC) decreases rapidly until an elbow is reached. From the models near this elbow the best model is selected on the basis of interpretability and simplicity. The final model includes three clusters with two, four and four hidden states respectively. The clusters and hidden states are named and transition probabilities between the states are visualised. These transition probabilities will be used to create a personalised environment for each particpant, incorporating actionable suggestions and effective interventions in order to ensure optimum benefit from the program.
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- Denny Meyer
+- Madawa W. Jayawardana
+date: "2019-08-01T00:00:00Z"
 doi: ""
-featured: true
+featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 
   focal_point: ""
   preview_only: false
 links:
-- name: Custom Link
-  url: http://example.org
-projects:
-- internal-project
+- name: Session information
+  url: https://iasc-isi.org/dssv2019/programme-aug-14/#CPS_16
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 publication_types:
 - "1"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-08-01T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: To provide a truly dynamic personalisd environment what is needed are methods for identifying different engagement trajectories.
 tags:
 - Source Themes
-title: An example conference paper
+title: Mixture Hidden Markov Models to Detect the Engagement Dynamics of Mhealth Participants
 url_code: '#'
 url_dataset: '#'
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://dssv2019.ywebsys.net/bookofabstracts.pdf
 url_poster: '#'
 url_project: ""
 url_slides: ""
 url_source: '#'
-url_video: '#'
+#url_video: '#'
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
+

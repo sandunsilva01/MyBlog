@@ -42,9 +42,9 @@ bio: My research interests include biostatistics, data science and genome-wide a
 ---
 Hello everyone !!! 
 
-I'm Sandun Silva, who is a statistician specialized in biostatistics and data science. 
+I'm a statistician specialized in biostatistics and data science. 
 
-I’m currently working as a biostatistician at National Health Medical Research Council (NHMRC) Clinical Trial Center, Faculty of Medicine and Health at University of Sydney. 
+I’m currently working as a biostatistician at National Health Medical Research Council (NHMRC) Clinical Trial Center, University of Sydney. 
 
 I have completed my bachelor’s degree in Statistics at University of Colombo, Sri Lanka. After a year of working as a data analyst/scientist in Sri Lanka, I was offered a full scholarship from Department of Health Science and Biostatistics at Swinburne University of Technology Australia to follow a Ph.D. in Statistics (STA90001) in the scope of Health Science (DR-HTHSCI), under the supervision of Prof. Denny Meyer and Dr. Madawa W. Jayawardana. 
 
