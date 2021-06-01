@@ -1,51 +1,34 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac
-  convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac
-  faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
-  eu, pulvinar tempor diam.
+abstract: MHealth interventions relating to physical activity are gaining increasing popularity. However, these mHealth programs provide only limited information regarding overall statistics and visualisation of tracked performance data. Most of these programs consider only cross sectional data in order to group participants depending on engagement levels. However, to provide a truly dynamic personalisd environment what is needed are methods for identifying different engagement trajectories. In this current study, multichannel engagement trajectories for the main module will be considered. The engagement trajectory for each participant will be comprised of two parallel channels, namely the number of weekly logins and step entries. In the literature there are many ways for clustering multichannel sequences using Hidden Markov Models. In the current study the authors have used Mixture Hidden Markov Models.
 address:
-  city: Stanford
-  country: United States
-  postcode: "94305"
-  region: CA
-  street: 450 Serra Mall
+  city: Kyoto
+  country: Japan
+  postcode: ""
+  region: ""
+  street: ""
 all_day: false
 authors: []
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-event: Wowchemy Conference
-event_url: https://example.org
+date: "2019-08-14T13:00:00Z"
+date_end: "2019-08-14T14:00:00Z"
+event: Data Science, Statistics and Visualisation DSSV2019
+event_url: https://iasc-isi.org/dssv2019/programme/
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 links:
-- icon: twitter
+- icon: linkedIn
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-location: Wowchemy HQ
-projects:
-- internal-project
+  name: Connect
+  url: https://www.linkedin.com/in/sandun-silva-bb00a262/
+location: Doshisha University, Imadegawa Campus
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
 summary: An example talk using Wowchemy's Markdown slides feature.
 tags: []
-title: Example Talk
+title: Mixture Hidden Markov models to detect engagement dynamics of mobile based Health program participants
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.

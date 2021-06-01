@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Hugo Academic Theme Demo
+title: Thriving in the data driven health
 subtitle:
 
 design:
@@ -28,16 +28,22 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Welcome to the demo of the **academic resumé template** for Wowchemy, the Website Builder for Hugo.
+Hello world !!! 
 
-[Explore similar templates](https://wowchemy.com/templates/)
+Welcome to my personal blog where I love to share what I'm learning and researching through my PhD and also as a Biostatistician (at University of Sydney). 
 
-**Over 500,000 [Amazing Websites](https://wowchemy.com/) have Already Been Built with Wowchemy**
+I always love to improve the **world wide quality of living** through data. But you may wonder how? 
+Simple answer is, **If we want to learn what's really happening around us, we have to learn statistics.** 
 
-**[Join](https://wowchemy.com/templates/) the Most Empowered Hugo Community**
+Here I will share my learning and the experience which I'm gathering along my journey. I really hope this will also help you in your data related endeavors. 
 
-{{% callout note %}}
-This homepage section is an example of adding [elements](https://wowchemy.com/docs/content/writing-markdown-latex/) to the [*Blank* widget](https://wowchemy.com/docs/getting-started/page-builder/).
+Well then this is my learning curve !!!
 
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-{{% /callout %}}
+
+**Let's start digging.**
+
+**[Linkedin](https://www.linkedin.com/in/sandun-silva-bb00a262/) Snap shot of who am I**
+
+**[Researchgate Profile](https://www.researchgate.net/profile/Sampathawaduge-Silva) of what I'm researching**
+
+

@@ -40,7 +40,6 @@ social:
 superuser: yes
 bio: My research interests include biostatistics, data science and genome-wide association studies (GWAS) 
 ---
-Hello everyone !!! 
 
 I'm a statistician specialized in biostatistics and data science. 
 

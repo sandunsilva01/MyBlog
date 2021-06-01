@@ -5,7 +5,7 @@ weight: 40
 widget: featurette
 subtitle: null
 feature:
-- description: 90%
+- description: 100%
   icon: r-project
   icon_pack: fab
   name: R

@@ -91,7 +91,7 @@ Experience:
         * Modelling
         * Publishing
         
-  - title: Researcher
+  - title: Researcher (Research collaboration)
     company: Peter MacCallum Cancer Centre
     company_url: https://www.petermac.org/
     company_logo: petermac

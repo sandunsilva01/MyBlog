@@ -13,7 +13,8 @@ image:
   caption: 
   focal_point: ""
   preview_only: false
-projects: []
+projects: 
+- Machine-Learning
 publication: '*Special Issue ISCB ASC 2018, 62*(2)'
 publication_short: ""
 publication_types:
