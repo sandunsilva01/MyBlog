@@ -18,17 +18,17 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: open-book.jpg
-    image_darken: 1.0
-    image_parallax: true
+    image: featured.jpg
+    image_darken: 1
+    image_parallax: false
     image_position: center
     image_size: cover
     text_color_light: false
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["20px", "20", "20px", "20"]
 ---
 
-Hello world !!! 
+**Hello world !!!** 
 
 Welcome to my personal blog where I love to share what I'm learning and researching through my PhD and also as a Biostatistician (at University of Sydney). 
 
