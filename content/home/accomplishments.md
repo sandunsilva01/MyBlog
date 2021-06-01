@@ -31,6 +31,14 @@ item:
   organization_url: https://www.coursera.org
   title: Neural Networks and Deep Learning
   url: ""
+  
+- date_end: "2020-05-21"
+  date_start: "2017-05-21"
+  description: For exceptional research potential undertaking doctoral studies
+  organization: Swinburne University of Technology
+  organization_url: https://www.swinburne.edu.au/
+  title: Swinburne University Postgraduate Research Award
+  url: https://www.swinburne.edu.au/study/options/scholarships/221/swinburne-university-postgraduate-research-award/
 # - certificate_url: https://www.edx.org
 #   date_end: ""
 #   date_start: "2021-01-01"

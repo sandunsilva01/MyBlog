@@ -55,4 +55,4 @@ I have worked with Department of Transport, Victoria and Peter MacCallum Cancer 
 
 I enjoy myself working on real world health problems using data and statistics.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/SandunCV.pdf" "newtab" >}}resumé{{< /staticref >}}.
