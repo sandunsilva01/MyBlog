@@ -12,7 +12,7 @@ headless: false
 # Order that this section appears on the page.
 weight: 10
 
-title: Thriving in the data driven health
+title: Thriving in the data driven HEALTH
 subtitle:
 
 design:

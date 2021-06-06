@@ -1,10 +1,10 @@
 ---
-abstract: Genome wide association analysis is a collection of methods which identifies association between different traits with genetic regions and features. This area of analysis is rapidly evolving in the medical research in order to promote personalise medicine and health care. In this study authors will be investigating an efficient method and an algorithm to filter out the importnant single single nucleotide polymorphisms (SNPs) for 6 different outcome events out of 30 million SNPs.
+abstract:	PARTNER study is a clinical trial which investigate of the effectiveness of a new model of primary care management to treat knee pain and knee osteoarthritis using generalised estimating equations and generalised additive models.
 authors:
-- Val Gebsky
+- David Hunter
+- Gillian Z. Heller
 - admin
-- Karen byth
-- Anthony Keech
+- Jocelyn Bowden
 date: "2021-04-07T00:00:00Z"
 doi: ""
 featured: false
@@ -16,10 +16,10 @@ publication_types:
 - "3"
 publishDate: ""
 slides: ""
-summary: Efficient method to filter single nucleotide polymorphisms (SNPs) from a large database for six outcome events. 
+summary: Investigating the effectiveness of a new model of treatment care for the knee osteoarthritis. 
 tags:
 - Source Themes
-title: An efficient method to filter single nucleotide polymorphisms (SNPs) (Working paper)
+title:  New model of primary care management to treat knee pain and knee osteoarthritis
 url_code: ''
 url_dataset: ''
 url_pdf: ""
