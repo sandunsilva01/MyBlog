@@ -19,7 +19,7 @@ design:
   columns: "3"
   background:
     image: featured.jpg
-    image_darken: 0.7
+    image_darken: 0.3
     image_parallax: false
     image_position: center
     image_size: cover
