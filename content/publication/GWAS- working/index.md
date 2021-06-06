@@ -18,7 +18,7 @@ publishDate: ""
 slides: ""
 summary: Efficient method to filter single nucleotide polymorphisms (SNPs) from a large database for six outcome events. 
 tags:
-- Source Themes
+- Biostatistics
 title: An efficient method to filter single nucleotide polymorphisms (SNPs) (Working paper)
 url_code: ''
 url_dataset: ''

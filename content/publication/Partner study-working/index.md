@@ -18,7 +18,7 @@ publishDate: ""
 slides: ""
 summary: Investigating the effectiveness of a new model of treatment care for the knee osteoarthritis. 
 tags:
-- Source Themes
+- Biostatistics
 title:  New model of primary care management to treat knee pain and knee osteoarthritis
 url_code: ''
 url_dataset: ''

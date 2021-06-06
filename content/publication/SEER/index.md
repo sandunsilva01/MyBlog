@@ -26,7 +26,7 @@ publishDate: ""
 slides: 
 summary: Predicting suicide patients with cancer 
 tags:
-- Source Themes
+- Biostatistics
 title: Risk factors associated with suicide among adolescent and young adults (AYA) with cancer
 url_code: 
 url_dataset: ""

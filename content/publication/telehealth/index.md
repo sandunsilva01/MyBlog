@@ -27,7 +27,7 @@ publishDate: "2021-04-09T00:00:00Z"
 slides: 
 summary: The delivery of videoconferencing psychotherapy has been found to be an efficacious, acceptable and feasible treatment modality for individual therapy.
 tags:
-- Source Themes
+- Other
 title: Videoconferencing psychotherapy for couples and families, A systematic review
 url_code: 
 url_dataset: ""

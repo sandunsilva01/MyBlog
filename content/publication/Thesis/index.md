@@ -22,7 +22,7 @@ publishDate: "2021-01-09T00:00:00Z"
 slides: example
 summary: According to recent statistics from the World Health Organization, 23% of people aged 18 years and over are not sufficiently physically active. At the same time online health, wellbeing and physical activity programs have become more popular. However, these online programs lack structured statistical and machine learning frameworks for enhancing engagement through program personalisation. This thesis fills this gap by developing a framework for monitoring and predicting future online engagement, including personalised achievable goals for daily step counts and systems for personalised participant intervention by administrators. It identifies new opportunities for online physical activity programs for producing better participant outcomes
 tags:
-- Source Themes
+- Machine Learning
 title: Innovative Statistical Methods to Model and Evaluate Physical Activity Programs Engagement
 url_code: ""
 url_dataset: ""

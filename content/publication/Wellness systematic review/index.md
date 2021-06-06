@@ -25,7 +25,7 @@ publishDate: "2019-08-09T00:00:00Z"
 slides: example
 summary: For achieving successful results among employees at high risk of poor health outcomes remains a significant challenge for interventions. It is hoped that program developers can use this information to create effective interventions particularly for more sedentary employees.
 tags:
-- Source Themes
+- Machine Learning
 title: Predictors of success of workplace physical activity interventions a systematic review
 url_code: ""
 url_dataset: ""

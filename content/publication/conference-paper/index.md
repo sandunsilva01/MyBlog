@@ -22,7 +22,7 @@ publishDate: "2019-08-01T00:00:00Z"
 slides: example
 summary: To provide a truly dynamic personalisd environment what is needed are methods for identifying different engagement trajectories.
 tags:
-- Source Themes
+- Machine Learning
 title: Mixture Hidden Markov Models to Detect the Engagement Dynamics of Mhealth Participants
 url_code: '#'
 url_dataset: '#'

@@ -23,7 +23,7 @@ publishDate: "2020-01-09T00:00:00Z"
 slides: example
 summary: This study will be focused on the physical activity module of a workplace health and exercise program in which the participants track their day to day physical activity using step counts. The current system of flagging step entries uses an arbitrary value in order to identify fraudulent step entries. This cutoff is not a personalized value although the physical activity of participants is likely to vary depending on various psychosocial, demographic, weather, and climatic factors. Moreover, accepting and rejecting flagged step entries based on past performance and reasons provided by participants tends to be subjective. Furthermore, once a flagged step entry is rejected or accepted, these findings are not being taken into consideration in order to identify the genuineness of participants. It is expected that the proposed framework will overcome most of these issues.
 tags:
-- Source Themes
+- Machine Learning
 title: Detecting possible persons of interest in a physical activity program using step entries Including a web-based application for outlier detection and decision making
 url_code: https://github.com/sandunsilva01/TAAD
 url_dataset: ""

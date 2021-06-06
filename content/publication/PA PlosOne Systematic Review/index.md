@@ -22,7 +22,7 @@ publishDate: "2018-11-02T00:00:00Z"
 slides: example
 summary: According to the global World Health Organization 2017 statistics, more than 80% of the world’s adolescents are insufficiently physically active. In response to this problem, physical activity programs have become popular, with step counts commonly used to measure program performance. Analysing step count data and the statistical modeling of this data is therefore important for evaluating individual and program performance. This study reviews the statistical methods that are used to model and evaluate physical activity programs, using step counts.
 tags:
-- Source Themes
+- Machine Learning
 title: Statistical methods to model and evaluate physical activity programs using step counts A systematic review
 url_code: ""
 url_dataset: ""
