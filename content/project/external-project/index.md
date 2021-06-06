@@ -1,11 +1,11 @@
 ---
-date: "2016-04-27T00:00:00Z"
-external_link: http://example.org
+date: "2021-04-27T00:00:00Z"
+external_link: https://www.ctc.usyd.edu.au/
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: 
   focal_point: Smart
-summary: An example of linking directly to an external project website using `external_link`.
+summary: The work that I will be carried out at NHMRC Clinical Trial Centre, Univeristy of Sydney.
 tags:
 - Demo
-title: External Project
+title: Biostatistics
 ---
