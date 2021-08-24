@@ -1,4 +1,6 @@
-blogdown::new_site(theme="wowchemy/starter-academic")
+
+
+#blogdown::new_site(theme="wowchemy/starter-academic")
 
 
 blogdown::serve_site()
