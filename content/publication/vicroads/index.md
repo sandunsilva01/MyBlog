@@ -11,7 +11,7 @@ authors:
 - Kelly Imberger
 - Victoria Pyta
 date: ""
-doi: ""
+doi: "https://doi.org/10.1016/j.jsr.2021.08.008"
 featured: true
 image:
   caption: 
@@ -19,11 +19,11 @@ image:
   preview_only: false
 projects: 
 - Machine-Learning
-publication: '*Accepted for publication in Journal of Safety Research*'
+publication: '*Journal of Safety Research*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: ""
+publishDate: "2021-08-028T00:00:00Z"
 slides: ""
 summary: Predicting drivers with fatal and serious injury crash involvement using their offence history
 tags:
@@ -31,7 +31,7 @@ tags:
 title: Modelling the Relationship of Driver Licence and Offence History with Fatal and Serious Injury Crash Involvement 
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0022437521001067"
 url_poster: ""
 url_project: ""
 url_slides: ""
